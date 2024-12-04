@@ -1,4 +1,4 @@
 # .gitignore
 
 # Ignore the admin folder inside the hotel directory
-SuiteSpot/admin/
+/admin/
