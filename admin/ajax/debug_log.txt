@@ -1,0 +1,300 @@
+POST DATA:
+Array
+(
+    [room_id] => 7
+    [action] => upload_room_image
+)
+FILES DATA:
+Array
+(
+    [room_image] => Array
+        (
+            [name] => WhatsApp Image 2024-04-06 at 18.56.35_7b8d1947.jpg
+            [full_path] => WhatsApp Image 2024-04-06 at 18.56.35_7b8d1947.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\phpA574.tmp
+            [error] => 0
+            [size] => 5574
+        )
+
+)
+POST DATA:
+Array
+(
+    [room_id] => 1
+    [action] => upload_room_image
+)
+FILES DATA:
+Array
+(
+    [room_image] => Array
+        (
+            [name] => mithi.jpg
+            [full_path] => mithi.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\php8294.tmp
+            [error] => 0
+            [size] => 241351
+        )
+
+)
+POST DATA:
+Array
+(
+    [room_id] => 1
+    [action] => upload_room_image
+)
+FILES DATA:
+Array
+(
+    [room_image] => Array
+        (
+            [name] => riya.JPG
+            [full_path] => riya.JPG
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\php4DF5.tmp
+            [error] => 0
+            [size] => 445321
+        )
+
+)
+POST DATA:
+Array
+(
+    [room_id] => 1
+    [action] => upload_room_image
+)
+FILES DATA:
+Array
+(
+    [room_image] => Array
+        (
+            [name] => pexels-kylarose-954677.jpg
+            [full_path] => pexels-kylarose-954677.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\php693.tmp
+            [error] => 0
+            [size] => 56638
+        )
+
+)
+POST DATA:
+Array
+(
+    [room_id] => 1
+    [action] => upload_room_image
+)
+FILES DATA:
+Array
+(
+    [room_image] => Array
+        (
+            [name] => mYsign.jpg
+            [full_path] => mYsign.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\php20A5.tmp
+            [error] => 0
+            [size] => 15558
+        )
+
+)
+POST DATA:
+Array
+(
+    [room_id] => 2
+    [action] => upload_room_image
+)
+FILES DATA:
+Array
+(
+    [room_image] => Array
+        (
+            [name] => mithi.jpg
+            [full_path] => mithi.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\php67FB.tmp
+            [error] => 0
+            [size] => 241351
+        )
+
+)
+POST DATA:
+Array
+(
+    [room_id] => 
+    [action] => upload_room_image
+)
+FILES DATA:
+Array
+(
+    [room_image] => Array
+        (
+            [name] => riya.JPG
+            [full_path] => riya.JPG
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\phpD6D1.tmp
+            [error] => 0
+            [size] => 445321
+        )
+
+)
+POST DATA:
+Array
+(
+    [room_id] => 
+    [action] => upload_room_image
+)
+FILES DATA:
+Array
+(
+    [room_image] => Array
+        (
+            [name] => riya.JPG
+            [full_path] => riya.JPG
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\phpEC7D.tmp
+            [error] => 0
+            [size] => 445321
+        )
+
+)
+POST DATA:
+Array
+(
+    [room_id] => 
+    [action] => upload_room_image
+)
+FILES DATA:
+Array
+(
+    [room_image] => Array
+        (
+            [name] => riya.JPG
+            [full_path] => riya.JPG
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\php5B17.tmp
+            [error] => 0
+            [size] => 445321
+        )
+
+)
+POST DATA:
+Array
+(
+    [room_id] => 
+    [action] => upload_room_image
+)
+FILES DATA:
+Array
+(
+    [room_image] => Array
+        (
+            [name] => riya.JPG
+            [full_path] => riya.JPG
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\phpBAAC.tmp
+            [error] => 0
+            [size] => 445321
+        )
+
+)
+POST DATA:
+Array
+(
+    [room_id] => 
+    [action] => upload_room_image
+)
+FILES DATA:
+Array
+(
+    [room_image] => Array
+        (
+            [name] => riya.JPG
+            [full_path] => riya.JPG
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\php20BA.tmp
+            [error] => 0
+            [size] => 445321
+        )
+
+)
+POST DATA:
+Array
+(
+    [room_id] => 1
+    [action] => upload_room_image
+)
+FILES DATA:
+Array
+(
+    [room_image] => Array
+        (
+            [name] => riya.JPG
+            [full_path] => riya.JPG
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\php157F.tmp
+            [error] => 0
+            [size] => 445321
+        )
+
+)
+POST DATA:
+Array
+(
+    [room_id] => 1
+    [action] => upload_room_image
+)
+FILES DATA:
+Array
+(
+    [room_image] => Array
+        (
+            [name] => riya.JPG
+            [full_path] => riya.JPG
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\phpF958.tmp
+            [error] => 0
+            [size] => 445321
+        )
+
+)
+POST DATA:
+Array
+(
+    [room_id] => 1
+    [action] => upload_room_image
+)
+FILES DATA:
+Array
+(
+    [room_image] => Array
+        (
+            [name] => 438060522_982306070204252_8012001862372838473_n.jpg
+            [full_path] => 438060522_982306070204252_8012001862372838473_n.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\php8CE5.tmp
+            [error] => 0
+            [size] => 14751
+        )
+
+)
+POST DATA:
+Array
+(
+    [room_id] => 3
+    [action] => upload_room_image
+)
+FILES DATA:
+Array
+(
+    [room_image] => Array
+        (
+            [name] => download.jpeg
+            [full_path] => download.jpeg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\php2EDE.tmp
+            [error] => 0
+            [size] => 91634
+        )
+
+)
