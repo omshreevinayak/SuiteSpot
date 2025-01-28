@@ -37,7 +37,7 @@
   </p>
 
 
-## 💯 Impact:
+## 💯 Impact
 Provided a comprehensive solution for hotel management, improving overall operational efficiency.
 
 ## ⚙️ Installation
