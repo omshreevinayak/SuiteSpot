@@ -38,7 +38,7 @@
 
 
 ## 💯 Impact:
-Improved user tracking accuracy and user engagement through real-time updates.
+Provided a comprehensive solution for hotel management, improving overall operational efficiency.
 
 ## ⚙️ Installation
 To run this project locally, follow these steps:
